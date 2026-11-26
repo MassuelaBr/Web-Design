@@ -7,9 +7,9 @@ Aqui em baixo, você tera acesso ao:
 - Deploy do nosso site das atividades: https://e-reviews.vercel.app/
 - Deploy do nosso site da AF: https://ecoenergia.onrender.com
 
-GIT pessoal para teste do conteúdo aprendido:
+GIT pessoal para teste do conteúdo aprendido,
 link: https://github.com/MassuelaBr/teste
-OBS.: site teste não finalizado
+-OBS.: site teste não finalizado
 
 Links para o matéria complementar:
 - HTML: https://github.com/deivisontakatu/aula-html
