@@ -6,3 +6,13 @@ Aqui em baixo, você tera acesso ao:
 - GitHub do nosso projeto EcoEnergia caso seja do seu interesse: https://github.com/Igor-SJ/e-reviews
 - Deploy do nosso site das atividades: https://e-reviews.vercel.app/
 - Deploy do nosso site da AF: https://ecoenergia.onrender.com
+
+Links para o matéria complementar:
+- HTML: https://github.com/deivisontakatu/aula-html
+- CSS: https://github.com/deivisontakatu/aula-css
+- JavaScript: https://github.com/deivisontakatu/aula-javascript
+- Scrum: https://github.com/deivisontakatu/aula-scrum
+- Documentação GIT: https://github.com/deivisontakatu/aula-documentacao-software
+- React: https://github.com/deivisontakatu/aula-react
+- Projeto React: https://github.com/deivisontakatu/projeto-react
+- Sobre Web: https://github.com/deivisontakatu/aula-web-design
